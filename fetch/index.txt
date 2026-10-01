@@ -1,0 +1,129 @@
+001|baFxKi0Jcj4|3345|Lesson 1. Framework Configuration. Preparing to Become a 1C Platform Specialist
+002|3VZObGM6Rrc|5916|SESSION 2. OLD METHODOLOGY. PREPARING FOR THE 1C PLATFORM SPECIALIST EXAM
+003|ba5coqLguXc|3146|LESSON 3. NEW TEACHING METHOD. PREPARATION FOR THE 1C PLATFORM SPECIALIST EXAM
+004|QTQTObfI-zE|2146|LESSON 4. COST CALCULATION BY AVERAGE. PREPARATION FOR A 1C PLATFORM SPECIALIST
+005|V0zYMdCBDZU|3390|ЗАНЯТИЕ 5. РАСЧЕТ СЕБЕСТОИМОСТИ ПО FIFO / LIFO. ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+006|hEKNAUiZr4w|3915|SESSION 6. CALCULATING TOTAL COMPANY COST. PREPARING FOR 1C PLATFORM SPECIALIST EXAM
+007|fJvlJFY7DII|3930|LESSON 7. PRODUCT STOCK REPORT. PART 1. PREPARING FOR THE 1C PLATFORM SPECIALIST EXAM
+008|ydq78W6p9W4|2805|LESSON 8. REPORT ON STOCK. PART 2. PREPARATION FOR THE 1C PLATFORM SPECIALIST
+009|ZE3m7pEAFqU|1451|Lesson 9. Inventory Report. Part 3. Preparing for the 1C Platform Specialist
+010|MyoJeDH63Zo|2886|LESSON 10. CONTROL OF BALANCES BY BATCHES. PREPARATION FOR A 1C PLATFORM SPECIALIST
+011|ftDwCsulOi4|2910|ЗАНЯТИЕ 11. ОТЧЕТ ПО ПРОДАЖАМ. ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+012|Y6e01yTi9uE|3230|Lesson 12. Costing Using Average and First-In-First-Out (FIFO) Methods. Preparing for the 1C Plat...
+013|82WX8eBHo3U|2170|Lesson 13. "GOODS MOVEMENT" REPORT. Preparing for the 1C PLATFORM SPECIALIST
+014|BXKjInJGKuQ|4181|LESSON 14. INVENTORY WRITE-OFF BASED ON WAREHOUSE PRIORITIES. PREPARING FOR THE 1C PLATFORM SPECI...
+015|sP2_Qd6E1oo|3081|ЗАНЯТИЕ 15. ДОПОЛНИТЕЛЬНЫЕ ЗАТРАТЫ. ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+016|Z_UUAhOMhlE|2571|LESSON 16. DUAL-CURRENCY ACCOUNTING. PREPARATION FOR 1C PLATFORM SPECIALIST CERTIFICATION
+017|51E-Hc80gp0|6066|LESSON 17. RACKS AND COMPONENTS. 1C PLATFORM SPECIALIST PREPARATION
+018|sX9uc5zAJZA|2091|Lesson 18. Indexing Tables. Preparing to Become a 1C Platform Specialist
+019|2k7MmioNfeU|6701|ЗАНЯТИЕ 19. ПРОДУКТЫ, НАБОРЫ И ГОТОВЫЕ БЛЮДА. ЧАСТЬ 1. ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+020|vfD82KJ6H8M|3106|LESSON 20. PRODUCTS, SETS AND READY-MADE MEALS. PART 2. PREPARATION FOR A 1C PLATFORM SPECIALIST
+021|1GbWPVLtlaQ|5871|LESSON 21. CHARACTERISTICS AND PROPERTIES. PREPARING FOR THE 1C PLATFORM SPECIALIST EXAM
+022|pExwyNKcDTQ|3645|LESSON 22. RECEIPTS AND SHIPMENTS BY ORDERS. PREPARATION FOR 1C PLATFORM SPECIALIST EXAM
+023|dOx1kJRh-lo|1970|LESSON 23. REPORT ON UNDER-SHIPPED ORDERS. PREPARATION FOR A 1C PLATFORM SPECIALIST
+024|L7nwSDBFQq8|5011|LESSON 24. TRACKING EXPIRATION AND SERVICE DATES. PREPARING FOR 1C PLATFORM SPECIALIST EXAM
+025|WPHfP2R6IS4|2311|Session 25. Goods Shipped and Receipted by the Buyer. Preparing for the 1C Platform Specialist
+026|H-uj_6W7lhE|3191|ЗАНЯТИЕ 26. ВЗАИМОРАСЧЕТЫ. НАЧАЛО. ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+027|G3lN2BbVEMo|4865|Lesson 27. Cost Calculation Without Taking into Account Expiry Dates. Preparing for the 1C Platfo...
+028|ln_T5XhUKG0|2955|Lesson 28. Foreign Currency Settlements. Advances. Preparing to Become a 1C Platform Specialist
+029|GcXL8DagfyM|2450|LESSON 29. OFFSETTING ADVANCES. PREPARATION FOR 1C PLATFORM SPECIALIST EXAM
+030|tJ0_xTC2CmM|1426|LESSON 30. NUANCES OF SETTING LOCKS. PART 1. 1C PLATFORM SPECIALIST PREP
+031|o4WFZ6XKdsg|5095|Lesson 31. Mutual Settlements within Projects. Preparing for the 1C Platform Specialist
+032|JgR-qvp6mso|2241|Lesson 32. Report on Mutual Settlements by Project. Preparing for the 1C Platform Specialist
+033|hOrlLVuILKQ|2050|LESSON 33. "CURRENCY" DIMENSION IN THE MUTUAL SETTLEMENTS REGISTER. PREPARING FOR 1C PLATFORM SPE...
+034|1_7fc6xwW7w|3131|Lesson 34. Shipment on Credit. Preparing for the 1C Platform Specialist
+035|tDVKCE9VSjU|5206|LESSON 35. BUDGET AND BUDGETARY CONTROL. PREPARATION FOR 1C PLATFORM SPECIALIST CERTIFICATION
+036|0I3OVQcAxhE|1734|Lesson 36. Budget Execution Report. Preparing for the 1C Platform Specialist
+037|g01JjSqLELk|3120|Lesson 37. Message from the Posting Processing when Closing a Form. Preparing for the 1C Platform...
+038|OIVlmkohkXs|2786|LESSON 38. REPORT ON RACK STOCK. PREPARATION FOR A 1C PLATFORM SPECIALIST
+039|RyKdpHDCB_s|1635|ЗАНЯТИЕ 39. НЮАНСЫ ПРИ УСТАНОВКЕ БЛОКИРОВОК. ЧАСТЬ 2. ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+040|DN7pbPp4wJQ|3176|Lesson 40. Indexing Tables - 2. MS SQL Profiler. Preparing to Become a 1C Platform Specialist
+041|xeiOIFlkqiM|2335|Lesson 41. Preparing to Solve Accounting Problems. Preparing to Become a 1C Platform Specialist
+042|1ekAJkT8Fh8|1696|Lesson 42. Creating Accounting Register Transactions. Preparing for the 1C Platform Specialist
+043|KLuoOZz506Y|3015|LESSON 43. COST CALCULATION BY WAREHOUSES AND BATCHES (BU). PREPARATION FOR A SPECIALIST IN THE 1...
+044|RFVgD71ooa0|2485|ЗАНЯТИЕ 44. ОТЧЕТ ПО ПРОДАЖАМ (БУ). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+045|MguPT-j0zWA|5311|SESSION 45. COSTING WITHOUT REGARD TO EXPIRATION DATES (ACC). PREPARING FOR 1C PLATFORM SPECIALIS...
+046|r-Dz7QlPw24|5481|Lesson 46. Cost price by inventory number (BU). Preparation for the 1C platform specialist
+047|7rxGN3Ptu3U|2706|Lesson 47. Cost of goods without accounting for inventory numbers. Preparation for the 1C platfor...
+048|egNBylhuBd4|4220|LESSON 48. SALES BY PROJECT. ADDITIONAL EXPENSES. PREPARATION FOR 1C PLATFORM SPECIALIST EXAM
+049|l20iLbJukOQ|3351|Lesson 49. Damage to Used Goods. Preparing for the 1C Platform Specialist
+050|I8QVFk-0k4A|3120|ЗАНЯТИЕ 50. ОТПРАВЛЕНИЕ И ПРИБЫТИЕ ТОВАРОВ (БУ). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+051|7FhH47nQwVc|3315|Lesson 51. Reporting of Undelivered Goods (U). Preparing for the 1C Platform Specialist
+052|yBcsJjQ9ESY|4795|Lesson 52. Delayed Goods Transfer (DG). Preparing for the 1C Platform Specialist
+053|IWhvltzwL4c|4825|LESSON 53. TRANSFER BETWEEN YOUR OWN ORGANIZATIONS (ACCOUNTING). PREPARATION FOR 1C PLATFORM SPEC...
+054|6W2WlMfed0g|5396|LESSON 54. ASSEMBLY (ACCOUNTING). 1C PLATFORM SPECIALIST PREPARATION
+055|8xN4tUCmXCI|2395|LESSON 55. MOVEMENT OF GOODS WITH DELAY (BU) - 2. PREPARATION FOR A 1C PLATFORM SPECIALIST
+056|VUp7KajFsqY|3980|ЗАНЯТИЕ 56. ПРОДАЖА КОМПЛЕКТОВ (БУ). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+057|HHpSbIyJ3TI|6385|ЗАНЯТИЕ 57. СБОРКА ПО СПЕЦИФИКАЦИИ (БУ). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+058|h7uo5G2VZck|1460|ЗАНЯТИЕ 58. ОБОРОТЫ ИЛИ ОБОРОТЫ ДТ КТ? (БУ). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+059|ATqdw2haglU|3495|Lesson 59. Cost of goods sold by lots (BU). Preparing for the 1C platform specialist
+060|05TB2ao9agA|3500|ЗАНЯТИЕ 60. ВЗАИМОРАСЧЕТЫ В ДВУХ ВАЛЮТАХ (БУ). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+061|jtQyLT-DERk|2886|Session 61. Sales Through Agents (Agents). Preparing for the 1C Platform Specialist
+062|HG5rzUnNOEk|5465|LESSON 62. SETTLEMENTS WITH A VARIABLE LIST OF CURRENCIES (AC). 1C PLATFORM SPECIALIST PREPARATION
+063|OhUvdbSNdAI|3211|LESSON 63. DEBT ADJUSTMENT (ACC). PREPARING FOR THE 1C PLATFORM SPECIALIST EXAM
+064|d4D3G03xmIs|2616|ЗАНЯТИЕ 64. ОТЧЕТ ПО ВЗАИМОРАСЧЕТАМ (БУ). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+065|AiFBFcJjF7k|1516|LESSON 65. FIXING BUGS (BU). PREPARATION FOR A 1C PLATFORM SPECIALIST
+066|GDCZpSrNKbw|2696|Lesson 66. Getting Started with the 1C Platform Specialist
+067|GxHelAObIxU|2711|Lesson 67. Salary Calculation (SPR). Preparing for the 1C Platform Specialist
+068|3iYr42TaLVk|4121|ЗАНЯТИЕ 68. РАСЧЕТ ПРЕМИИ (СПР). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+069|ZoHXWS_uDRM|2006|ЗАНЯТИЕ 69. РАСЧЕТ ПО КНОПКЕ "РАССЧИТАТЬ" (СПР). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+070|loVs4KB2Jno|2741|LESSON 70. "EMPLOYEE BONUSES" REPORT (SPP). PREPARING FOR 1C PLATFORM SPECIALIST
+071|ovF1tk5eAT8|4325|LESSON 71. BUSINESS TRIP CALCULATION (SR). PREPARATION FOR THE 1C PLATFORM SPECIALIST EXAM
+072|mR1W_cuqars|1390|LESSON 72. REVERSING ENTRIES (SPR). PREPARATION FOR 1C PLATFORM SPECIALIST EXAM
+073|tev70CsRhGE|1340|LESSON 73. "ACCRUAL ANALYSIS FOR THE PERIOD" REPORT (SPR). PREPARING FOR 1C PLATFORM SPECIALIST C...
+074|7JQclDNHuYw|2970|Lesson 74. Obtaining a Scale Rate (SPR). Preparing to become a 1C Platform Specialist
+075|jvVKD72x1_k|2205|ЗАНЯТИЕ 75. ПОЛУЧЕНИЕ БАЗЫ ПО РЕГИСТРУ БУХГАЛТЕРИИ (СПР). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+076|FqcHUdpWMfM|2521|LESSON 76. "ACCRUAL ANALYSIS" REPORT. OPTION 2 (SPR). PREPARING FOR THE 1C PLATFORM SPECIALIST EXAM
+077|gh9lUT74czM|3221|ЗАНЯТИЕ 77. ШТРАФ ЗА ОПОЗДАНИЕ (СПР). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+078|qwcmYhgIEt4|2135|LESSON 78. SHIFT SCHEDULE (REF). PREPARATION FOR 1C PLATFORM SPECIALIST
+079|vdE0-FpIArI|2541|Lesson 79. Calculating the Manager's Bonus (MBB). Preparing for the 1C Platform Specialist
+080|1XrRtdng1PY|2611|ЗАНЯТИЕ 80. СПОСОБЫ РАСЧЕТА И ПРИОРИТЕТЫ (СПР). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+081|FEsaK9kaxgM|831|Lesson 81. Recalculations. Beginning (SPR). Preparing for the 1C Platform Specialist
+082|kOWs0-eEf5s|3021|Lesson 82. Penalty for being late. Part 2 (SPR). Preparation for the 1C platform specialist
+083|fMntIdf3MZA|2001|LESSON 83. CARS AND FIXED AMOUNT (FAM). PREPARATION FOR A 1C PLATFORM SPECIALIST
+084|xVe8KMY52UY|1711|LESSON 84. AUTOMOBILES AND PERCENTAGE SURCHARGE ON PAYMENTS (1C:SPECIALIST PREP). PREPARING FOR T...
+085|xdftCOatBsQ|2625|Lesson 85. Cars and Vacations (VAC). Preparing to Become a 1C Platform Specialist
+086|SCDo_wXB3yg|3186|SESSION 86. MANUAL REGISTRATION OF RECALCULATIONS (SPR). PREPARING FOR THE 1C PLATFORM SPECIALIST...
+087|mmgrcbtX-SU|2206|LESSON 87. PENALTY FOR ABSENTEEISM (SRD). PREPARATION FOR 1C PLATFORM SPECIALIST
+088|J7PWUW7qsFY|5320|ЗАНЯТИЕ 88. КОМПЕНСАЦИЯ НА РЕМОНТ АВТОМОБИЛЯ (СПР). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+089|7cqIh8w083w|1491|Lesson 89. Report "Analysis of Repair Compensations" (RRC). Preparing for the 1C Platform Specialist
+090|pfUtdImaCgs|2961|LESSON 90. MOBILE PHONE COMPENSATION (SPR). PREPARATION FOR 1C PLATFORM SPECIALIST
+091|9IdtZy3hXQg|6021|LESSON 91. RECALCULATION PROCEDURE. PART 1 (SPR). PREPARATION FOR 1C PLATFORM SPECIALIST EXAM
+092|3PO5MnrsIGM|2395|Lesson 92. Recalculation Procedure. Part 2 (SPR). Preparing for the 1C Platform Specialist
+093|LN3W6zGN7Gk|4636|Session 93. Rate Changes During the Month (RRC). Preparing for the 1C Platform Specialist
+094|rNMzR7TAxvM|4391|LESSON 94. BONUS WITH AN ACCRUAL PERIOD (SPR). PREPARATION FOR THE 1C PLATFORM SPECIALIST EXAM
+095|pgmW36kPfro|1649|LESSON 95. SALARY PAYMENT (SPR). PREPARATION FOR 1C PLATFORM SPECIALIST
+096|47nd_ylfFxs|1330|LESSON 96. PAYMENT LIST (PLS). TRAINING FOR A 1C PLATFORM SPECIALIST
+097|ejMhUUwQ60A|5288|ЗАНЯТИЕ 97. РАСЧЕТНО-ПЛАТЕЖНАЯ ВЕДОМОСТЬ. ЧАСТЬ 2 (СПР). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+098|Aw6nZlomhqI|1486|Lesson 98. Breakdown of the Accrual Interval by Month (AIC). Preparing for the 1C Platform Specia...
+099|TlNj9PbZcog|3796|SESSION 99. SICK LEAVE CALCULATION. PART 1 (PROFESSIONAL). PREPARATION FOR 1C PLATFORM SPECIALIST
+100|U7Ik96scIOs|3526|ЗАНЯТИЕ 100. РАСЧЕТ БОЛЬНИЧНОГО. ЧАСТЬ 2 (СПР). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+101|9XT5mKyzUDw|1091|ЗАНЯТИЕ 101. ДИАГРАММА ГАНТА (СПР). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+102|ieTtJ8GLubo|1901|Lesson 102. Sick Leave Calculation. Part 3 (SPR). Preparing for the 1C Platform Specialist
+103|kHAZ-AW_xiQ|841|Lesson 103. Absence from Work (SPR). Preparing to Become a 1C Platform Specialist
+104|XEb4oeD_jQ0|5365|ЗАНЯТИЕ 104. КОМПЕНСАЦИЯ ЗАТРАТ НА ОБЕДЫ (СПР). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+105|3wEUtcrLWgE|3226|LESSON 105. OVERTIME (SPR). PREPARATION FOR 1C PLATFORM SPECIALIST EXAM
+106|xkbTVHNBWUw|1391|LESSON 106. CURRENCY CALCULATIONS (SPR). PREPARATION FOR A 1C PLATFORM SPECIALIST
+107|aiDxKR3UN84|2005|Session 107. Team Leader's Bonus. Preparing to Become a 1C Platform Specialist
+108|m0UcnzWGPa0|2929|LESSON 108. TIMETABLE. PART 1. DOCUMENT (SPR). PREPARATION FOR A 1C PLATFORM SPECIALIST
+109|6DF-_85iCHI|3986|SESSION 109. TIMESHEET. PART 2. SALARY AND BUSINESS TRIPS (SPR). PREPARING FOR 1C PLATFORM SPECIA...
+110|djMg0JGvc4s|2655|Lesson 110. Timesheet. Part 3. Salary and Absences (SAR). Preparing to Become a 1C Platform Speci...
+111|nblYmPp1_Tc|1456|Lesson 111. Report Card. Part 4. Bonus (SPR). Preparing to Become a 1C Platform Specialist
+112|ExaEpv7GMiI|1956|Lesson 112. Timesheet. Part 5. Other Document (SPR). Preparing for the 1C Platform Specialist
+113|LUAUIl9euz8|1631|Lesson 113. Users and Session Parameters (UF). Preparing for the 1C Platform Specialist
+114|gKIiGpXP_qs|2021|SESSION 114. FUNCTIONAL OPTIONS. PART 1 (MC). PREPARING FOR 1C PLATFORM SPECIALIST
+115|MVSYQG35GyU|1786|Lesson 115. Functional Options. Part 2 (UF). Preparing to Become a 1C Platform Specialist
+116|IA2GVSmXppE|1525|ЗАНЯТИЕ 116. ДВИЖЕНИЯ БУ ПО КОНТРАГЕНТУ (УФ). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+117|oZw58jy8ntM|920|ЗАНЯТИЕ 117. НАВИГАЦИОННЫЕ ССЫЛКИ (УФ). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ 1С
+118|IN3ZIWWjm4Q|2132|Lesson 118. Binding a message to a form field (UF). Preparing for the 1C platform specialist
+119|xV2ozhymItQ|1120|ЗАНЯТИЕ 119. ПРЕМИЯ РУКОВОДИТЕЛЮ БРИГАДЫ. ЧАСТЬ 2 (СПР). ПОДГОТОВКА К СПЕЦИАЛИСТУ ПО ПЛАТФОРМЕ
+120|4UEUYnWIAjI|2706|LESSON 120. ITEM PRICES AND SELECTION FORM (SFF). PREPARATION FOR THE PLATFORM SPECIALIST
+121|JwnqDvUQ5jg|5781|LESSON 121. SELECTION FORM AND DRAG-AND-DROP PROCESSING (MANAGED FORMS). PREPARING FOR 1C PLATFOR...
+122|0gwJxZcAd-E|696|LESSON 122. VIEWING DOCUMENT MOVEMENTS FROM FORMS (MANAGED FORMS). 1C PLATFORM SPECIALIST PREPARA...
+123|IdDXqvuwEtY|2776|LESSON 123. UPLOADING AN IMAGE. PART 1 (MANAGED FORMS). PREPARATION FOR 1C PLATFORM SPECIALIST
+124|nFZDL6bp6_w|2111|Lesson 124. Uploading an Image. Part 2 (UF). Preparing to Become a 1C Platform Specialist
+125|nrABKx05IkA|5056|LESSON 125. TASKS AND SCHEDULED JOBS (MANAGED FORMS). PREPARATION FOR 1C PLATFORM SPECIALIST
+126|b4p-16bYj1E|5015|ЗАНЯТИЕ 126. ПРОГРАММНОЕ ДОБАВЛЕНИЕ ЭЛЕМЕНТОВ НА ФОРМУ (УФ). ПОДГОТОВКА К СПЕЦУ ПО ПЛАТФОРМЕ 1С
+127|9Fw2vGis674|2411|LESSON 127. BUSINESS PROCESSES. PART 1 (BP). PREPARATION FOR A 1C PLATFORM SPECIALIST
+128|JBVqe2B-hoM|716|ЗАНЯТИЕ 128. БИЗНЕС-ПРОЦЕССЫ. ЧАСТЬ 2 (БП). ПОДГОТОВКА К СПЕЦУ ПО ПЛАТФОРМЕ 1С
+129|yPFKJWPhCI0|2076|Session 129. Business Processes. Part 3 (BP). Preparing to Become a 1C Platform Specialist
